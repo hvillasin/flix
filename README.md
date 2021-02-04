@@ -38,6 +38,7 @@ Describe any challenges encountered while building the app.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
+![ezgifcom-gif-maker-4](https://user-images.githubusercontent.com/77038388/106848349-a15eb280-6665-11eb-9c2a-04f172753681.gif)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/77038388/106347823-33397a80-6276-11eb-9a13-6a073f99cd99.gif)
 
 
